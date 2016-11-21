@@ -17,6 +17,10 @@
 !/gulp
 !/gulp.cmd
 
+!/release
+!/v*
+!/versions.json
+
 ### Published github pages
 .out
 
